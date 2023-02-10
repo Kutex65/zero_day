@@ -12,4 +12,8 @@
 
 * virtual machine
 * what is ubuntu
-* who wrote vagrant
+* who wrote vagran
+* goodluck
+
+* goodluck
+
